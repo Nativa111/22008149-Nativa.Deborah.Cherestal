@@ -5,6 +5,11 @@
 ## 22008149
 ## BD-DS
 
+
+## LIEN VIDEO
+"C:\Users\hp\Documents\Zoom\2025-12-18 23.30.18 Réunion Zoom de Nativa Déborah Chérestal\Video ML-CC.mp4"
+
+
 ## Table des Matières
 1. [Introduction](#introduction)
 2. [Description du Dataset](#description-du-dataset)
