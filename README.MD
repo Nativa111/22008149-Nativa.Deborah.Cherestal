@@ -7,7 +7,7 @@
 
 
 ## LIEN VIDEO
-"C:\Users\hp\Documents\Zoom\2025-12-18 23.30.18 Réunion Zoom de Nativa Déborah Chérestal\Video ML-CC.mp4"
+C:\Users\hp\Documents\Zoom\2025-12-18 23.30.18 Réunion Zoom de Nativa Déborah Chérestal\Video ML-CC.mp4
 
 
 ## Table des Matières
