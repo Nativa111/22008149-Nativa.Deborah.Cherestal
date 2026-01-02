@@ -3,12 +3,12 @@
 
 ## CHERESTAL Deborah Nativa
 ## 22008149
+## G2 Finance
 ## BD-DS
 
 
-## LIEN VIDEO
-C:\Users\hp\Documents\Zoom\2025-12-18 23.30.18 Réunion Zoom de Nativa Déborah Chérestal\Video ML-CC.mp4
 
+![Deborah Nativa Cherestal](![WhatsApp Image 2025-10-30 at 11 50 17](https://github.com/user-attachments/assets/1a60df9d-1939-410d-ba24-a93462ac4deb)
 
 ## Table des Matières
 1. [Introduction](#introduction)
